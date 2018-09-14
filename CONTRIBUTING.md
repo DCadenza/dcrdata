@@ -4,7 +4,7 @@
 
 ### When to Search the Issue Tracker
 
-If _any_ of the following apply::
+If _any_ of the following apply:
 
 - You believe you found a bug. It might already be logged, or even have a fix underway!
 - You have an idea for an enhancement or new feature. Before you start coding away and submit a PR for your work, consult the issue tracker.
